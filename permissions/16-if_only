@@ -1,2 +1,2 @@
 #!/bin/bash
-if guillaume; chown hello:vincent *
+chown  hello:vincent guillaume *
