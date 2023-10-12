@@ -1,2 +1,2 @@
 #!/bin/bash
-su hello user
+whoami hello user
